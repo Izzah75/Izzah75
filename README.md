@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Izzah75
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Izzah75/Izzah75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m @Izzah75   
+She/Her  
+I’m interested in coding, website design, and AI-driven solutions.  
+I’m currently learning Java, Python, and front-end development with a focus on video editing tools.  
+I’m looking to collaborate on beginner coding projects and web design.  
+You can contact me via email or social media platforms.  
+I created my first website with the help of AI!
